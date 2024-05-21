@@ -14,9 +14,9 @@
 	<name>oficinaapi</name>
 	<description>Projeto Java API REST com Spring Boot</description>
 	<properties>
-		<java.version>18</java.version>
-		<maven.compiler.source>1.8</maven.compiler.source>
-		<maven.compiler.target>1.8</maven.compiler.target>
+		<java.version>17</java.version>
+		<maven.compiler.source>1.7</maven.compiler.source>
+		<maven.compiler.target>1.7</maven.compiler.target>
 
 	</properties>
 	<dependencies>
