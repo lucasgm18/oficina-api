@@ -14,7 +14,10 @@
 	<name>oficinaapi</name>
 	<description>Projeto Java API REST com Spring Boot</description>
 	<properties>
-		<java.version>21</java.version>
+		<java.version>18</java.version>
+		<maven.compiler.source>1.8</maven.compiler.source>
+		<maven.compiler.target>1.8</maven.compiler.target>
+
 	</properties>
 	<dependencies>
 		<dependency>
