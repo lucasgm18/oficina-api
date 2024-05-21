@@ -13,17 +13,13 @@ Este projeto tem como objetivo desenvolver uma API REST Java que consome recurso
 
 - [Recursos](#recursos)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Controle de Versão](#controle-de-versão)
 - [Estrutura do Projeto](#estrutura-do-projeto)
-- [Testes](#testes)
-- [Divisão de Responsabilidades](#divisão-de-responsabilidades)
 - [Endpoints](#endpoints)
   - [Consultar todos os carros](#consultar-todos-os-carros)
   - [Cadastrar um novo carro](#cadastrar-um-novo-carro)
   - [Alterar a placa de um carro](#alterar-a-placa-de-um-carro)
 - [Como Executar](#como-executar)
 - [Licença](#licença)
-- [Contato](#contato)
 
 ## 🛠 Recursos
 
