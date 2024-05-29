@@ -82,6 +82,25 @@ A `divisão` de camadas do projeto será:
 
 ![ROTA PUT PT2](https://github.com/lucasgm18/oficina-api/assets/127359287/62c262c0-5766-4aa8-933b-dcdffff1ec14)
 
+---
+
+### Deletar um carro da oficina
+
+- **Rota** `DELETE /carros/{vin}`
+- **Descrição:** Exclui o `carro` da oficina pelo VIN.
+- **Parâmetros de Rota:**
+   - `vin`: O número de identificação do veículo.
+- **Exemplo de Exclusão:**
+
+  ![Captura de tela 2024-05-29 155413](https://github.com/lucasgm18/oficina-api/assets/127359287/29ba30f0-8ea2-45c3-b296-d445063c4359)
+
+
+- **Resultado:**
+
+  ![Captura de tela 2024-05-29 155438](https://github.com/lucasgm18/oficina-api/assets/127359287/d291ec24-36ce-404c-9499-810a42bfaef3)
+
+
+
 
 
 ## 🚀 Como Executar
@@ -99,7 +118,7 @@ Compile e execute a aplicação:
 
 
 📄 Licença
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalais.
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 
 
