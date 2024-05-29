@@ -26,6 +26,7 @@ Este projeto tem como objetivo desenvolver uma API REST Java que consome recurso
 - Consultar todos os carros.
 - Cadastrar um novo carro.
 - Alterar a placa de um carro.
+- Deleta um carro.
 
 ## 🎧 Tecnologias Utilizadas
 
